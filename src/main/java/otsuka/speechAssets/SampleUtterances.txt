@@ -1,0 +1,8 @@
+Recruitment give me the recruitment count for {STATUS}
+Recruitment what is the recruitment count for {STATUS}
+Recruitment tell me the recruitment count for {STATUS}
+Recruitment recruitment count for {STATUS}
+Recruitment  what about the recruitment count for {STATUS}
+TotalStudies Give me the number of total studies in {PHASE}
+TotalStudies Can you tell the number of total studies in {PHASE}
+TotalStudies How many number of total studies in {PHASE}
